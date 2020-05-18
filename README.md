@@ -8,6 +8,6 @@ Some NLP projects : chatbot and topic modeling
  2. The second part uses term frequency–inverse document frequency (TF-IDF) to build supervised topic
  
 # Chatbot
-an on progress chatbot built on amazon instruments reviews dataset using nltk library
+an on progress chatbot built with python on amazon musical instruments reviews dataset using nltk library mainly .
 
 
