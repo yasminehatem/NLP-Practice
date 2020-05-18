@@ -12,7 +12,7 @@ Some NLP projects : chatbot and topic modeling
 An on-progress chatbot built on amazon musical instruments reviews dataset using nltk library mainly .
 
 # Dependencies
-topic modeling packages
+Tpic modeling packages
 
 - tidyverse: general utility & workflow functions
 - tidytext: tidy implimentation of NLP methods
@@ -20,8 +20,8 @@ topic modeling packages
 - tm:  for text mining functions
 - SnowballC: for stemming
 
- chatbot packages
+Catbot packages
  
-ntalk , ntalk.wordnet
+- nltk , nltk.wordnet
 
 
