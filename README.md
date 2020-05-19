@@ -1,4 +1,4 @@
-# NLP-Practise
+# NLP-Practice
 Some NLP projects : chatbot and topic modeling 
 
 # topic modeling in R
