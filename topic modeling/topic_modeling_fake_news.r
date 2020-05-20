@@ -65,9 +65,7 @@ top_terms_by_topic_LDA(texts_subsample$text, number_of_topics = 4)
 
 
 
-# Now let's do some pre-processing to this text to see how it affects our topic model. First we're going to need to do some data cleaning.
 
-# %% [code]
 # create a document term matrix to clean
 myCorpus <- Corpus(VectorSource(texts_subsample$text)) 
 textsDTM <- DocumentTermMatrix(myCorpus)
